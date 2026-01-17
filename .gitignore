@@ -1,0 +1,4 @@
+outputs/embeddings/tfidf_embeddings.pkl
+*.pkl
+__pycache__/
+venv/

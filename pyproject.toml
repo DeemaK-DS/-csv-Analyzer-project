@@ -1,0 +1,21 @@
+[project]
+name = "nlp-cli-tool"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "arabic-reshaper>=3.0.0",
+    "camel-tools>=1.5.7",
+    "gensim>=4.4.0",
+    "model2vec>=0.2.4",
+    "nltk>=3.9.2",
+    "numpy>=1.24",
+    "pandas>=2.3.3",
+    "plotly>=6.5.2",
+    "psutil>=7.2.1",
+    "python-bidi>=0.6.7",
+    "sentence-transformers>=5.2.0",
+    "streamlit>=1.52.2",
+    "wordcloud>=1.9.5",
+]
